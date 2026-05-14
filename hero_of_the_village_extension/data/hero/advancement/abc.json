@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "raid_win": {
+      "trigger": "minecraft:hero_of_the_village"
+    }
+  },
+  "rewards": {
+    "function": "hero:give_effect"
+  }
+}

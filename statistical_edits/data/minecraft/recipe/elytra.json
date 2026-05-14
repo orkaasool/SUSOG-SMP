@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "SCS",
+    "BNB",
+    "M M"
+  ],
+  "key": {
+    "S": [
+      "minecraft:shulker_shell"
+    ],
+    "C": [
+      "minecraft:chorus_flower"
+    ],
+    "B": [
+      "minecraft:blaze_rod"
+    ],
+    "M": [
+      "minecraft:phantom_membrane"
+    ],
+    "N": [
+      "minecraft:nether_star"
+    ]
+  },
+  "result": {
+    "id": "minecraft:elytra",
+    "components": {
+      "minecraft:lore": [
+        "Fly Free"
+      ]
+    },
+    "count": 1
+  }
+}

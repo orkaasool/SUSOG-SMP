@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "removed trim recipe; added raw gold and iron recipe; increased loot table for trim; modified piglin drops",
+    "min_format": 88,
+    "max_format": 88
+  }
+}
